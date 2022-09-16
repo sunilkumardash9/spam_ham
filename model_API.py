@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from joblib import load
 import regex as re
 from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS
-#from spamClassify import my_classifier
+
 
 
 
